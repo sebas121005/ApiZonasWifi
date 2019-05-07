@@ -1,0 +1,1 @@
+[11-Nov-2011 15:53:06] PHP Fatal error:  Using $this when not in object context in /home1/recaudos/public_html/emdepsa/SIR/application/views/scripts/error/error.phtml on line 9
